@@ -163,3 +163,4 @@ C:\Users\User\Desktop\коледж\моделювання\mia_lw9\obj\Debug\net8
 C:\Users\User\Desktop\коледж\моделювання\mia_lw9\obj\Debug\net8.0\MyWebApi.pdb
 C:\Users\User\Desktop\коледж\моделювання\mia_lw9\obj\Debug\net8.0\MyWebApi.genruntimeconfig.cache
 C:\Users\User\Desktop\коледж\моделювання\mia_lw9\obj\Debug\net8.0\ref\MyWebApi.dll
+C:\Users\User\Desktop\коледж\моделювання\mia_lw9\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

@@ -3,6 +3,21 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\mia_lw9\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0C29A0F8-63D6-489D-AAC8-5BA9DA5385F4}|..\\TestProject1\\TestProject1.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\mia_lw9\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\mia_lw9\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|solutionrelative:controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\mia_lw9\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\mia_lw9\\mywebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2B34A62C-A8A0-40E5-8765-AEA431D7ED1A}|MyWebApi.csproj|solutionrelative:mywebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -21,6 +36,19 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\mia_lw9\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\mia_lw9\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T18:11:56.16Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
@@ -30,7 +58,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\TestProject1\\UnitTest1.cs*",
+              "RelativeToolTip": "..\\TestProject1\\UnitTest1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T18:04:23.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodosController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\mia_lw9\\Controllers\\TodosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TodosController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\mia_lw9\\Controllers\\TodosController.cs",
+              "RelativeToolTip": "Controllers\\TodosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:05:10.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\mia_lw9\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\mia_lw9\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:04:01.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\mia_lw9\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -38,21 +104,19 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-24T10:47:27.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T10:47:27.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MyWebApi",
+              "DocumentIndex": 4,
+              "Title": "MyWebApi.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\mia_lw9\\MyWebApi.csproj",
               "RelativeDocumentMoniker": "MyWebApi.csproj",
               "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043B\u0435\u0434\u0436\\\u043C\u043E\u0434\u0435\u043B\u044E\u0432\u0430\u043D\u043D\u044F\\mia_lw9\\MyWebApi.csproj",
               "RelativeToolTip": "MyWebApi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-24T10:47:22.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T10:47:22.375Z"
             }
           ]
         }
