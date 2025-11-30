@@ -157,7 +157,6 @@ C:\Users\User\Desktop\коледж\моделювання\mia_lw9\obj\Debug\net8
 C:\Users\User\Desktop\коледж\моделювання\mia_lw9\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\User\Desktop\коледж\моделювання\mia_lw9\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\User\Desktop\коледж\моделювання\mia_lw9\obj\Debug\net8.0\swae.build.ex.cache
-C:\Users\User\Desktop\коледж\моделювання\mia_lw9\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\User\Desktop\коледж\моделювання\mia_lw9\obj\Debug\net8.0\MyWebApi.csproj.Up2Date
 C:\Users\User\Desktop\коледж\моделювання\mia_lw9\obj\Debug\net8.0\MyWebApi.dll
 C:\Users\User\Desktop\коледж\моделювання\mia_lw9\obj\Debug\net8.0\refint\MyWebApi.dll
